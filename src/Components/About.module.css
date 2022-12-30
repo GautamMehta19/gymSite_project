@@ -8,7 +8,7 @@
     height: 70%;
     background-color: darkkhaki;
   /* position:absolute ;right: 200px; */
-  display: flex;
+  display: flex; 
 }
 
 video{

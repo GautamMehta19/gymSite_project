@@ -2,7 +2,7 @@ import React from 'react'
 import style from "./About.module.css"
 import { Link } from 'react-router-dom';
 
-import videoBg from "../videos/videoBg.mp4"
+import videoBg from "../videos/videoBgd.mp4"
 import { FaArrowAltCircleRight } from "react-icons/fa";
 
 function About() {
@@ -26,7 +26,7 @@ function About() {
     
     </div> */}
     </>
-  )
+  ) 
 }
 
 export default About

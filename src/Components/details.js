@@ -10,7 +10,7 @@ const myStyle = {
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
   
-  };
+  }; 
 export default function Details() {
 
   

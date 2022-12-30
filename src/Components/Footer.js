@@ -5,7 +5,7 @@ import { BsLinkedin, BsInstagram, BsTwitter, BsFacebook, BsYoutube, BsGithub } f
 
 
 function Footer() {
-    return (
+    return ( 
         <>
             <wrapper>
                 <section>

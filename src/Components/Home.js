@@ -1,5 +1,5 @@
 import React from 'react'
-import imgcss from "../images/backImage.jpg"
+import imgcss from "../images/backimage.jpg"
 import { Link } from 'react-router-dom';
 
 
@@ -12,7 +12,6 @@ const myStyle = {
   fontSize: '50px',
   backgroundSize: 'cover',
   backgroundRepeat: 'no-repeat',
-
 };
 
 export default function Home() {
@@ -35,6 +34,6 @@ export default function Home() {
         </div>
       </div>
 
-    </>
+    </> 
   )
 }

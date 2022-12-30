@@ -18,13 +18,7 @@ function Navbar() {
                         <li className="program"><NavLink to="/program"> Program</NavLink></li>
                     </ul>
                 </div>
-
-
-
             </div>
-
-
-
         </>
     )
 }
